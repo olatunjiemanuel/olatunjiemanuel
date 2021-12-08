@@ -11,7 +11,7 @@ I'm a  Software  Engineer  Intern👨🏿‍💻 at  [React-Native-Nigeria-Commu
 - 🤔 I’m looking for help with resources and smarter ways to write code.
 - 💬 Ask me about anything 😁
 - 📫 How to reach me: 
-- [Twitter]()
+- [Twitter](https://twitter.com/olatunjiemanuel?s=11)
 - [LinkedIn](https://www.linkedin.com/in/olatunji-adenuga-9789a9150/)
 - [Medium](https://medium.com/@olatunjiemanuel15)
 
