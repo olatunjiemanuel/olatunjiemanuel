@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a  Software  Engineer  Intern👨🏿‍💻 at  [React-Native-Nigeria-Community🇳🇬](https://github.com/react-native-nigeria-community)  learning  the  fundamentals  of  JavaScript, React Native for mobile 📱(IOS and android) development.
+I'm a  Software  Engineer  Intern👨🏿‍💻 at  [React-Native-Nigeria-Community🇳🇬](https://github.com/react-native-nigeria-community)  learning  the  fundamentals  of  JavaScript and React Native for mobile 📱(IOS and android) development.
 
 - 🔭 I’m currently working on
-* various coding challenges designed around fundamental topics in Javascript and by an extension react native to solidify my knowledged in mobile development
+* various coding challenges designed around fundamental topics in Javascript and by an extension react native to solidify my knowledge in mobile development
 * Personal projects.
 * Giving back by contributing to to open source to the best of my knowledge.
 * Technical Writing @ [React-Native-Nigeria-Community🇳🇬](https://github.com/react-native-nigeria-community).
