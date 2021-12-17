@@ -1,4 +1,4 @@
-### Hi there 👋
+### <Hi there 👋/>
 
 I'm a  Software  Engineer  Intern👨🏿‍💻 at  [React-Native-Nigeria-Community🇳🇬](https://github.com/react-native-nigeria-community)  learning  the  fundamentals  of  JavaScript and React Native for mobile 📱(IOS and android) development.
 
