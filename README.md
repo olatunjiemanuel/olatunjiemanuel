@@ -4,7 +4,12 @@ I'm a  Software  Engineer  Intern👨🏿‍💻 at  [React-Native-Nigeria-Commu
 
 - 🔭 I’m currently working on
 * various coding challenges designed around fundamental topics in Javascript and by an extension react native to solidify my knowledge in mobile development
-* Personal projects.
+* Personal projects:
+* [Password-Checker](https://github.com/olatunjiemanuel/passwordchecker)
+* [Calculator-App](https://github.com/olatunjiemanuel/Calculator-App)
+* [To-Do-List-App](https://github.com/olatunjiemanuel/To-do-List-App)
+* [Wallpaper-App(working with APIs)](https://github.com/olatunjiemanuel/Wallpaper-App-API-practical)
+* [Food-App-CodingChallenge](https://github.com/olatunjiemanuel/Food-App-CodingChallenge)
 * Giving back by contributing to to open source to the best of my knowledge.
 * Technical Writing @ [React-Native-Nigeria-Community🇳🇬](https://github.com/react-native-nigeria-community).
 - 👯 I’m looking to collaborate on react native projects,open source projects.
