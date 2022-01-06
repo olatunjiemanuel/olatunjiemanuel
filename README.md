@@ -5,6 +5,7 @@ I'm a React Native Developer👨🏿‍💻 at  [React-Native-Nigeria-Community�
 - 🔭 I’m currently working on
 * various coding challenges designed around fundamental topics in Javascript and by an extension react native to solidify my knowledge in mobile development
 * Personal projects:
+* [Rick and Morty Application using RickAndMortyAPI](https://github.com/olatunjiemanuel/RickAndMortyApp)
 * [Shopping App](https://github.com/olatunjiemanuel/shoppingAppUI)
 * [Crypto Price Checking Application](https://github.com/olatunjiemanuel/CryptoCurrencyApp/tree/master)
 * [Password-Checker](https://github.com/olatunjiemanuel/passwordchecker)
