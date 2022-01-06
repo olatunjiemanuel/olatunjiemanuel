@@ -7,7 +7,7 @@ I'm a React Native Developer👨🏿‍💻 at  [React-Native-Nigeria-Community�
 * Personal projects:
 * [Rick and Morty Application using RickAndMortyAPI](https://github.com/olatunjiemanuel/RickAndMortyApp)
 * [Shopping App](https://github.com/olatunjiemanuel/shoppingAppUI)
-* [Crypto Price Checking Application](https://github.com/olatunjiemanuel/CryptoCurrencyApp/tree/master)
+* [Crypto Price Checking Application using Gecko API](https://github.com/olatunjiemanuel/CryptoCurrencyApp/tree/master)
 * [Password-Checker](https://github.com/olatunjiemanuel/passwordchecker)
 * [Calculator-App](https://github.com/olatunjiemanuel/Calculator-App)
 * [To-Do-List-App](https://github.com/olatunjiemanuel/To-do-List-App)
