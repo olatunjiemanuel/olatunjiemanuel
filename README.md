@@ -15,7 +15,7 @@ I'm a React Native Developer👨🏿‍💻 at  [React-Native-Nigeria-Community�
 * [Food-App-CodingChallenge](https://github.com/olatunjiemanuel/Food-App-CodingChallenge)
 * Giving back by contributing to to open source to the best of my knowledge.
 * Technical Writing @ [React-Native-Nigeria-Community🇳🇬](https://github.com/react-native-nigeria-community).
-- 👯 I’m looking to collaborate on react native projects,open source projects.
+- 👯 I’m looking to collaborate on interesting projects for exaxmple react native project leaning towards IOT (Internet of Things), CryptoCurrecncy ,open source projects and much more.
 - 🤔 I’m looking for help with resources and smarter ways to write code.
 - 💬 Ask me about anything 😁
 - 📫 How to reach me: 
