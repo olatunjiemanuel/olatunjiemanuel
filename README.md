@@ -3,7 +3,7 @@
 I'm a React / React Native Developer👨🏿‍💻 with TypeScript / Javascript
 
 ### 🔭 I’m currently working on
-* learning and building strongly types backend frame works for my front end web and mobile applications
+* learning and building strongly typed backend frame works like Go and c# .Net Core for my front end web and mobile applications
 * Personal projects:
 * [Ecommerce Application](https://github.com/olatunjiemanuel/EcommerceApp)
 * [Rick and Morty Application using RickAndMortyAPI](https://github.com/olatunjiemanuel/RickAndMortyApp)
