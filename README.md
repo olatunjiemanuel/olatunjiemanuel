@@ -7,8 +7,12 @@ I enjoy building **real-world products**, shipping features people actually use,
 and learning by doing (and sometimes breaking things… responsibly).
 
 ---
+# 📬 Let’s Connect
 
-## 🚀 What I’m Up To
+**I’m always happy to connect, collaborate, or just talk tech - 💼 [LinkedIn](https://www.linkedin.com/in/olatunjiadenuga/) - 🐦 [Twitter / X](https://twitter.com/olatunjiemanuel?s=11) - ✍🏿 [Medium](https://medium.com/@olatunjiemanuel15)** 👋🏿
+---
+
+# 🚀 What I’m Up To
 
 - 🔭 Currently building **[Travla](https://github.com/olatunjiemanuel/Travla)**  
   A full-stack project with **React + TypeScript** on the frontend and  
@@ -44,16 +48,6 @@ Because curiosity doesn’t clock out 😄
 - 🔓 Open-source contributions when I can add real value
 
 👉 Check out my **repositories** to see what I’m currently tinkering with.
-
----
-
-## 📬 Let’s Connect
-
-I’m always happy to connect, collaborate, or just talk tech 👋🏿
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/olatunjiadenuga/)
-- 🐦 [Twitter / X](https://twitter.com/olatunjiemanuel?s=11)
-- ✍🏿 [Medium](https://medium.com/@olatunjiemanuel15)
 
 ---
 
