@@ -14,7 +14,7 @@ and learning by doing (and sometimes breaking things… responsibly).
 
 # 🚀 What I’m Up To
 
-- 🔭 Currently building **[Travla](https://github.com/olatunjiemanuel/Travla)**  
+- 🔭 Currently building **[Expense-Split](https://github.com/olatunjiemanuel/expensesplit)**  
   A full-stack project with **React + TypeScript** on the frontend and  
   **ASP.NET Core** on the backend
 - 🧠 Big fan of clean code, scalable architecture, and readable commits
