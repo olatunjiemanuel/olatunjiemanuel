@@ -8,7 +8,7 @@ and learning by doing (and sometimes breaking things… responsibly).
 
 ---
 # 📬 Let’s Connect
-
+** I am currently open to working in teams as a software engineer and also provide mobile / web application services for prviate businesses. You can reach me below👇 **
 **I’m always happy to connect, collaborate, or just talk tech - 💼 [LinkedIn](https://www.linkedin.com/in/olatunjiadenuga/) - 🐦 [Twitter / X](https://twitter.com/olatunjiemanuel?s=11) - ✍🏿 [Medium](https://medium.com/@olatunjiemanuel15)** 👋🏿
 ---
 
