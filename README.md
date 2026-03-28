@@ -22,6 +22,21 @@ and learning by doing (and sometimes breaking things… responsibly).
 - 💬 Ask me about **React, React Native, TypeScript, or building full-stack apps**
 
 ---
+### 🤖 AI Orchestration & Custom Skills                                                                                                           
+                                                                                                                                                    
+  I've been building custom **Claude Code skills** — reusable slash commands that automate and enforce my development workflow. Here's what I've
+  built so far:                                                                                                                                     
+                                                            
+  | Skill | What it does |                                                                                                                          
+  |---|---|                                                                                                                                         
+  | `/new-project` | Scaffolds a full **Vite + React + TypeScript** project with my conventions — folder structure, Prettier, design tokens,custom project specific `CLAUDE.md` file, and publishes to GitHub |                                                                                                         
+  | `/new-component` | Scaffolds a React component following project conventions — PascalCase folder, `index.tsx`, colocated CSS Module |           
+  | `/review` | Audits a project's code for consistency against my conventions — naming, CSS Modules, component structure, design tokens, error handling, and SOLID principles |                                                                                                                  
+  | `/security-review` | Audits a PR for security vulnerabilities — secrets, XSS, injection, auth gaps, missing rate limiting, insecure storage,dependency risks — and gives a Pass/Block verdict |                                                                                           
+  | `/frontend-design` | Plans the visual design of a page before writing code — layout, colours, typography, spacing — then generates`variables.css` design tokens |                                                                                                     
+                                                                                                                                                    
+  These skills feed into an automated workflow: branch → build → `/review` → `/security-review` → PR → merge. All of these skills have a self healing workflow which automatically updates the skill whenever the user makes a correction or shows a preference.       
+---
 
 ## 💼 Paid Projects
 
