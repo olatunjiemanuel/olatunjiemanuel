@@ -17,6 +17,9 @@ and learning by doing (and sometimes breaking things… responsibly).
 - 🔭 Currently building **[Expense-Split](https://github.com/olatunjiemanuel/expensesplit)**  
   A full-stack project with **React + TypeScript** on the frontend and  
   **ASP.NET Core** on the backend
+- 🔭 I've recently built **[Travla](https://travel-companion-eight-theta.vercel.app/)**  
+  A full-stack project with **React + TypeScript** on the frontend, **AI** and
+  **ASP.NET Core** on the backend
 - 🧠 Big fan of clean code, scalable architecture, and readable commits
 - 🤝 Giving back through **open-source contributions** and side projects (paid & unpaid)
 - 💬 Ask me about **React, React Native, TypeScript, or building full-stack apps**
