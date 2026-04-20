@@ -47,7 +47,7 @@ Projects I’ve worked on professionally or commercially 💸
 
 - **[ThatoFoxCollective](https://thatofoxcollective.vercel.app/)** – A simple landing page for a small business   
   *Vanilla html and css*
-- **[Ebetab Beddings](https://ebetab-beddings.vercel.app/)** – A page for a small business that deals in beddings, client has allowed me to build in public so you may see sampled data as development ongoing.
+- **[Ebetab Beddings](https://ebetab.com)** – A page for a small business that deals in beddings, client has allowed me to build in public so you may see sampled data as development ongoing.
 - More coming soon… 👀 (shipping > talking)
 
 > If you’re curious about collaborations or contract work — let’s chat.
